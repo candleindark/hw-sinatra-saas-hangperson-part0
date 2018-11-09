@@ -173,3 +173,6 @@ fabric.properties
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/osx,ruby,macos,rubymine
+
+# --- Specifications done manually -----
+.idea
